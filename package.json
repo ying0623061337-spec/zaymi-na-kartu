@@ -1,0 +1,7 @@
+{
+  "name": "zaymi-na-kartu",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve -s . -l $PORT"
+  }
+}
